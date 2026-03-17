@@ -1,0 +1,22 @@
+{
+    "Name": "Mapping the Neural Dynamics of Locomotion across the Drosophila Brain",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Walking is a fundamental mode of locomotion, yet its neural correlates are unknown at brain-wide scale in any animal. We use volumetric two-photon imaging to map neural activity associated with walking across the entire brain of Drosophila. We detect locomotor signals in approximately 40% of the brain, identify a global signal associated with the transition from rest to walking, and define clustered neural signals selectively associated with changes in forward or angular velocity. These networks span functionally diverse brain regions, and include regions that have not been previously linked to locomotion. We also identify time-varying trajectories of neural activity that anticipate future movements, and that represent sequential engagement of clusters of neurons with different behavioral selectivity. These motor maps suggest a dynamical systems framework for constructing walking maneuvers reminiscent of models of forelimb reaching in primates and set a foundation for understanding how local circuits interact across large-scale networks.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Brezovec, Luke",
+        "Berger, Andrew",
+        "Druckmann, Shaul ",
+        "Clandinin, Thomas"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
